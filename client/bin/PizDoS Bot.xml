@@ -1,0 +1,61 @@
+<!--
+Avalable runmodes:
+	0 = RCON mode,
+	1 = Role Play Attack,
+	2 = Still mode (stays still at spawn position),
+	3 = Normal mode (stays still at a position),
+	4 = Follows a player,
+	5 = Follows a player with a vehicle,
+	6 = Mode for playing routes,
+        7 = Zaebat-заебать игрока,
+        8 = pulse-weapon-пульсатор оружием + имитация,
+	9 = killer_bot-отмудохать игрока,
+	10 = Crazy_Teleporter,
+	11 = Zaebat2-пиздарванка,
+	12 = DoS Master aka иди выпей чайку,
+-->
+
+<RakSAMPClient console="0" runmode="9" autorun="0" find="1" select_classid="4"
+			   print_timestamps="0" chatcolor_rgb="0 0 130" clientmsg_rgb="0 130 0"
+			   followplayer="AlexDrift" followplayerwithvehicleid="295" followXOffset="3.0" followYOffset="0.0" followZOffset="0.0"
+			   imitatechat="AlexDrift" Zaebat="Roman_Derkach" pulse-weapon="O.K.S" killer_bot="TrollingYT"
+Crazi_Teleporter="DJ_ELECTRO_zH" Zaebat2="Uzi_Usergg">
+
+	<!-- The first one is the one it will connect to -->
+	<server nickname="Kalcor" password="">77.72.133.43:7777</server>
+
+
+	<!-- If in normal mode, stay still at... -->
+	<normal_pos position="325.35 2512.09 16.56" rotation="0.0" />
+
+	<!-- If in playing routes mode, go to a position to get near by vehicle ids. -->
+	<play_pos position="375.35 2512.09 16.56" rotation="0.0" />
+
+	<!--
+	Available commands:
+		!exit or !quit: exits client.
+		!reconnect: reconnects the server.
+		!reload: reloads settings.
+		!stats: shows raknet statistics.
+		!players: shows list of players.
+		!goto: go to players position.
+		!imitate: change imitate name.
+		!vlist: shows list of vehicles.
+		!vdeath: send vehicle death notification.
+		!selveh: selects vehicle for playback.
+		!rtlist: shows list of routes.
+		!loadrt: loads a route.
+		!playrt: plays the selected route.
+		!stoprt: stops the selected route.
+		!menusel: selects an item from the GTA menu.
+	-->
+
+	<!-- These get called when we successfully connected to a server. -->
+	<autorun>!selveh 4</autorun>
+	<autorun>!loadrt 0</autorun>
+	<autorun>!playrt</autorun>
+	
+	<!-- Finds text from the chatbox and says something. -->
+	<!-- <find text="Kalcor" say="хуй" bk_color="255 255 255" text_color="255 0 0" /> -->
+
+</RakSAMPClient>

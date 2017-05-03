@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="RakSAMPClient_2008">
+</Property><Property Name="Файл решения" Value="C:\Users\ЮЗЕР\Desktop\RakSAMP_source_0.3xR1-2_put_fixed_by_povargek\client\src\RakSAMPClient_2008.sln">
+</Property><Property Name="Date" Value="31 августа 2013 г.">
+</Property><Property Name="Time" Value="22:25:07">
+</Property><Property Name="Номер записи" Value="3">
+</Property></Properties><Event ErrorLevel="0" Project="RakSAMPClient_2008" Source="RakSAMPClient_2008.vcproj" Description="Converting project file 'C:\Users\ЮЗЕР\Desktop\RakSAMP_source_0.3xR1-2_put_fixed_by_povargek\client\src\RakSAMPClient_2008.vcproj'.">
+</Event><Event ErrorLevel="1" Project="RakSAMPClient_2008" Source="RakSAMPClient_2008.vcproj" Description="VCConvertEngine.dll encountered an error.">
+</Event><Event ErrorLevel="1" Project="RakSAMPClient_2008" Source="RakSAMPClient_2008.vcproj" Description="VCConvertEngine.dll encountered an error.">
+</Event><Event ErrorLevel="1" Project="RakSAMPClient_2008" Source="RakSAMPClient_2008.vcproj" Description="VCConvertEngine could not convert attribute ConfigurationType = 1 under Configuration Release|Win32.">
+</Event><Event ErrorLevel="1" Project="RakSAMPClient_2008" Source="RakSAMPClient_2008.vcproj" Description="VCConvertEngine could not convert attribute CharacterSet = 2 under Configuration Release|Win32.">
+</Event><Event ErrorLevel="1" Project="RakSAMPClient_2008" Source="RakSAMPClient_2008.vcproj" Description="VCConvertEngine could not convert attribute ManagedExtensions = 0 under Configuration Release|Win32.">
+</Event><Event ErrorLevel="1" Project="RakSAMPClient_2008" Source="RakSAMPClient_2008.vcproj" Description="VCConvertEngine could not convert attribute WholeProgramOptimization = 0 under Configuration Release|Win32.">
+</Event><Event ErrorLevel="2" Project="RakSAMPClient_2008" Source="RakSAMPClient_2008.vcproj" Description="не удалось загрузить файл проекта. Отсутствует корневой элемент.  C:\Users\ЮЗЕР\AppData\Local\Microsoft\MSBuild\v4.0\Microsoft.Cpp.Win32.user.props">
+</Event><Event ErrorLevel="2" Project="C:\Users\ЮЗЕР\Desktop\RakSAMP_source_0.3xR1-2_put_fixed_by_povargek\client\src\RakSAMPClient_2008.vcproj" Source="" Description="The following error has occurred during XML parsing:&#xA;&#xA;File: C:\Users\ЮЗЕР\Desktop\RakSAMP_source_0.3xR1-2_put_fixed_by_povargek\client\src\RakSAMPClient_2008.vcproj&#xA;Line: 30&#xA;Column: 5&#xA;Error Message:&#xA;Системная ошибка: -2146233088.&#xA;&#xA;The file 'C:\Users\ЮЗЕР\Desktop\RakSAMP_source_0.3xR1-2_put_fixed_by_povargek\client\src\RakSAMPClient_2008.vcproj' has failed to load.">
+</Event><Event ErrorLevel="2" Project="RakSAMPClient_2008" Source="RakSAMPClient_2008.vcproj" Description="Не удалось обновить проект.">
+</Event><Event ErrorLevel="3" Project="RakSAMPClient_2008" Source="RakSAMPClient_2008.vcproj" Description="Не преобразован">
+</Event><Event ErrorLevel="2" Project="" Source="RakSAMPClient_2008.vcproj" Description="Не удалось обновить проект.">
+</Event></UpgradeLog>

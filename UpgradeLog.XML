@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="RakSAMP_2008">
+</Property><Property Name="Файл решения" Value="C:\Users\AlexDrift\Desktop\RakSAMP_source_0.3xR1-2_put_fixed_by_povargek\RakSAMP_2008.sln">
+</Property><Property Name="Файл параметров пользователя" Value="C:\Users\AlexDrift\Desktop\RakSAMP_source_0.3xR1-2_put_fixed_by_povargek\RakSAMP_2008.suo">
+</Property><Property Name="Date" Value="1 мая 2013 г.">
+</Property><Property Name="Time" Value="12:29">
+</Property></Properties><Event ErrorLevel="2" Project="" Source="RakSAMP_2008.sln" Description="Ошибка при создании резервного файла: C:\Users\AlexDrift\Desktop\RakSAMP_source_0.3xR1-2_put_fixed_by_povargek\RakSAMP_2008.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="RakSAMP_2008.suo" Description="Успешно создана резервная копия файла C:\Users\AlexDrift\Desktop\RakSAMP_source_0.3xR1-2_put_fixed_by_povargek\RakSAMP_2008.suo.old">
+</Event><Event ErrorLevel="3" Project="RakSAMPClient_2008" Source="client\src\RakSAMPClient_2008.vcxproj" Description="Преобразование не требуется">
+</Event><Event ErrorLevel="3" Project="RakSAMPServer_2008" Source="server\src\RakSAMPServer_2008.vcxproj" Description="Преобразование не требуется">
+</Event><Event ErrorLevel="0" Project="" Source="RakSAMP_2008.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="RakSAMP_2008.sln" Description="Converted">
+</Event></UpgradeLog>
